@@ -10,7 +10,7 @@ Selamat datang di aplikasi .NET C#! Dalam panduan ini, saya akan memberikan inst
 1. **Unduh Kode Sumber**
    - Gunakan perintah `git clone` untuk mengunduh kode sumber aplikasi:
      ```bash
-     git clone https://github.com/username/repo.git
+     git clone https://github.com/raditama/Radit_BackEnd_30012024
      ```
    - Atau unduh dan ekstrak ZIP dari repositori jika tidak menggunakan Git.
 
