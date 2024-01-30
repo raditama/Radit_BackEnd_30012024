@@ -24,6 +24,7 @@ public class CustomerController : Controller
                 Customer data = new Customer();
 
                 data.name = name;
+                data.points = 0;
 
                 db.Customer.Add(data);
                 db.SaveChanges();
